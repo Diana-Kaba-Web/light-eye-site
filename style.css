@@ -246,7 +246,6 @@ a {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 100px;
-  margin-left: 120px;
 }
 
 .list-services li {
@@ -576,10 +575,6 @@ footer {
     padding: 12px 15px;
     border-top: 1px solid #eee;
     border-right: none;
-  }
-
-  .prices {
-    width: 450px;
   }
 
   footer {
